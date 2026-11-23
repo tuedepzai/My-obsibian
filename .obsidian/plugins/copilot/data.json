@@ -251,6 +251,242 @@
       },
       "configuredModelId": "e3140253-d3a2-43cd-8508-1c59f1af76ed",
       "configuredAt": 1795445937644
+    },
+    {
+      "providerId": "8a5544fe-0587-452a-aa0a-3109072d08cc",
+      "info": {
+        "id": "gpt-6.2-sol",
+        "displayName": "6.2 Sol",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-11-17",
+        "cost": {
+          "input": 2,
+          "output": 10,
+          "cacheRead": 0.1,
+          "cacheWrite": 2.5
+        },
+        "description": "Fast, go-to model for coding and everyday work."
+      },
+      "configuredModelId": "70325c7a-bcb8-49b5-99b9-b1894a44bbeb",
+      "configuredAt": 1795446697752
+    },
+    {
+      "providerId": "8a5544fe-0587-452a-aa0a-3109072d08cc",
+      "info": {
+        "id": "gpt-6.2-astra",
+        "displayName": "6.2 Astra",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-11-17",
+        "cost": {
+          "input": 8,
+          "output": 40,
+          "cacheRead": 0.4,
+          "cacheWrite": 10
+        },
+        "description": "Our most capable model for complex coding and professional work."
+      },
+      "configuredModelId": "4a74c1b8-7470-4047-b748-7a8dccf5cf60",
+      "configuredAt": 1795446697752
+    },
+    {
+      "providerId": "8a5544fe-0587-452a-aa0a-3109072d08cc",
+      "info": {
+        "id": "gpt-6.1-terra",
+        "displayName": "6.1 Terra",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-10-26",
+        "cost": {
+          "input": 0.25,
+          "output": 1.25,
+          "cacheRead": 0.05,
+          "cacheWrite": 0.3125
+        },
+        "description": "Efficient model that excels at visual understanding and computer use."
+      },
+      "configuredModelId": "f6e96893-1396-45eb-b3df-2ff7f77a6b91",
+      "configuredAt": 1795446697753
+    },
+    {
+      "providerId": "8a5544fe-0587-452a-aa0a-3109072d08cc",
+      "info": {
+        "id": "gpt-6.1-sol",
+        "displayName": "6.1 Sol",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-09-29",
+        "cost": {
+          "input": 2,
+          "output": 10,
+          "cacheRead": 0.1,
+          "cacheWrite": 2.5
+        },
+        "description": "Previous generation model for coding and everyday work."
+      },
+      "configuredModelId": "12b300b2-2777-42a0-8824-c6f70eedc578",
+      "configuredAt": 1795446697753
+    },
+    {
+      "providerId": "8a5544fe-0587-452a-aa0a-3109072d08cc",
+      "info": {
+        "id": "gpt-6-astra",
+        "displayName": "6 Astra",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-09-04",
+        "cost": {
+          "input": 10,
+          "output": 50,
+          "cacheRead": 1
+        },
+        "description": "Previous generation model for complex coding and professional work."
+      },
+      "configuredModelId": "5a4a8130-6e4e-48bd-ae51-f226cd8130fe",
+      "configuredAt": 1795446697753
+    },
+    {
+      "providerId": "8a5544fe-0587-452a-aa0a-3109072d08cc",
+      "info": {
+        "id": "gpt-6-sol",
+        "displayName": "6 Sol",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-09-22",
+        "cost": {
+          "input": 2,
+          "output": 10,
+          "cacheRead": 0.2,
+          "cacheWrite": 2.5
+        },
+        "description": "Legacy model for coding and everyday work."
+      },
+      "configuredModelId": "516d6e9a-04f9-4db0-891b-5d63e15a4f75",
+      "configuredAt": 1795446697753
+    },
+    {
+      "providerId": "8a5544fe-0587-452a-aa0a-3109072d08cc",
+      "info": {
+        "id": "gpt-5.6-sol",
+        "displayName": "5.6 Sol",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1050000,
+          "output": 128000,
+          "input": 922000
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-07-09",
+        "cost": {
+          "input": 5,
+          "output": 30,
+          "cacheRead": 0.5
+        },
+        "description": "Legacy model for coding and everyday work."
+      },
+      "configuredModelId": "0ac5943e-ccab-4b07-b4f8-2bdce7cc7284",
+      "configuredAt": 1795446697753
     }
   ],
   "backends": {
